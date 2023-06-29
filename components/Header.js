@@ -1,6 +1,9 @@
-
 const items = [
+    { icon: 'fab fa-youtube', link: 'https://youtube.com/@irian35' },
+    { icon: 'fab fa-twitch', link: 'https://twitch.com/irian' },
     { icon: 'fab fa-discord', link: 'https://discord.com/users/1016843895713308693' },
+    { icon: 'fab fa-instagram', link: 'https://instagram.com/mr.rianbtw' },
+    { icon: 'fab fa-facebook', link: 'https://facebook.com/Efe Günaydın' },
     { icon: 'fab fa-github', link: 'https://github.com/iRianPeekBtw31' },
   ]
 
@@ -8,7 +11,7 @@ const navItems = [
     { icon: 'fal fa-home', active: 'fa fa-home', label: 'Home', href: '/' },
     { icon: 'fal fa-compass', active: 'fa fa-compass', label: 'Projects', href: '/projects' },
     { icon: 'fal fa-phone', active: 'fa fa-phone', label: 'Contact', href: '/contact' },
-    { icon: 'fal fa-rss', active: 'fa fa-rss', label: 'Blogs', href: 'https://www.irian.xyz' }
+    { icon: 'fal fa-rss', active: 'fa fa-rss', label: 'Blogs', href: 'https://irian.xyz' }
 ]
 
 import Link from 'next/link';
