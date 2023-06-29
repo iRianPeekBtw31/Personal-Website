@@ -37,11 +37,11 @@ function MyApp({ Component, pageProps }) {
     });
   return (<>
     <Head>
-        <title>Umut Bayraktar</title>
-        <link rel="shortcut icon" href="https://cdn.discordapp.com/attachments/1117809170519961703/1124055117562396763/uajY0XrMkYM-removebg-preview.png" ></link>
+        <title>iRian</title>
+        <link rel="shortcut icon" href="https://cdn.discordapp.com/attachments/1117809170519961703/1124055117562396763/uajY0XrMkYM-removebg-preview.png" type="image/x-icon" ></link>
+        <link rel="shortcut icon" href="https://cdn.discordapp.com/attachments/1117809170519961703/1124055117562396763/uajY0XrMkYM-removebg-preview.png" type="image/x-icon" ></link>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="https://pro.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" />
-
     </Head>
     <Transition
           as={Fragment}
