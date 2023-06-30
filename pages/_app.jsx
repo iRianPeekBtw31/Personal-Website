@@ -38,7 +38,7 @@ function MyApp({ Component, pageProps }) {
   return (<>
     <Head>
         <title>iRian</title>
-        <link rel="shortcut icon" href="https://cdn.discordapp.com/attachments/1117809170519961703/1124093012394385508/JPEG_20180902_205240-removebg-preview.png" type="image/x-icon" ></link>
+        <link rel="shortcut icon" href="https://cdn.discordapp.com/attachments/1117809170519961703/1124309104496742451/irian_1-fotor-bg-remover-2023063015247.png" type="image/x-icon" ></link>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="https://pro.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" />
 
