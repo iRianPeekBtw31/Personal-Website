@@ -2,7 +2,7 @@ export default async (req, res) => {
   const data = [
     {
       id: 1,
-      image: "https://media.discordapp.net/attachments/1117809170519961703/1124307354364690432/irian_3.jpg?width=473&height=473",
+      image: "https://cdn.discordapp.com/attachments/1117809170519961703/1124309972172406804/irian_3.jpg",
       name: "Game House",
       description: "Discord türkiyenin en iyi oyun ortamı",
       link: "https://discord.gg/Game House",
